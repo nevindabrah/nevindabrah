@@ -60,7 +60,6 @@ fascinated by applying technology to problems real people actually face. growing
 ### 📊 github activity
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nevindabrah&show_icons=true&hide_border=true&bg_color=1B1B2F&title_color=C9B8FF&icon_color=A8D8FF&text_color=EDE6F5" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nevindabrah&layout=compact&hide_border=true&bg_color=1B1B2F&title_color=C9B8FF&text_color=EDE6F5" />
 </p>
 
