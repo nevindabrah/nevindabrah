@@ -11,18 +11,7 @@
 
 <br/>
 
-<svg width="90" height="140" viewBox="0 0 120 160" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <animateTransform attributeName="transform" type="rotate" values="-22 60 0; 22 60 0; -22 60 0" dur="2.4s" repeatCount="indefinite"/>
-    <line x1="60" y1="0" x2="60" y2="50" stroke="#E8B939" stroke-width="2"/>
-    <circle cx="60" cy="62" r="10" fill="#EDE6DA"/>
-    <line x1="60" y1="72" x2="60" y2="105" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
-    <line x1="60" y1="80" x2="42" y2="95" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
-    <line x1="60" y1="80" x2="78" y2="95" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
-    <line x1="60" y1="105" x2="47" y2="135" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
-    <line x1="60" y1="105" x2="73" y2="135" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
-  </g>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAiIGhlaWdodD0iMTQwIiB2aWV3Qm94PSIwIDAgMTIwIDE2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Zz4KICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiB2YWx1ZXM9Ii0yMiA2MCAwOyAyMiA2MCAwOyAtMjIgNjAgMCIgZHVyPSIyLjRzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogICAgPGxpbmUgeDE9IjYwIiB5MT0iMCIgeDI9IjYwIiB5Mj0iNTAiIHN0cm9rZT0iI0U4QjkzOSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjYyIiByPSIxMCIgZmlsbD0iI0VERTZEQSIvPgogICAgPGxpbmUgeDE9IjYwIiB5MT0iNzIiIHgyPSI2MCIgeTI9IjEwNSIgc3Ryb2tlPSIjRURFNkRBIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogICAgPGxpbmUgeDE9IjYwIiB5MT0iODAiIHgyPSI0MiIgeTI9Ijk1IiBzdHJva2U9IiNFREU2REEiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8bGluZSB4MT0iNjAiIHkxPSI4MCIgeDI9Ijc4IiB5Mj0iOTUiIHN0cm9rZT0iI0VERTZEQSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICAgIDxsaW5lIHgxPSI2MCIgeTE9IjEwNSIgeDI9IjQ3IiB5Mj0iMTM1IiBzdHJva2U9IiNFREU2REEiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8bGluZSB4MT0iNjAiIHkxPSIxMDUiIHgyPSI3MyIgeTI9IjEzNSIgc3Ryb2tlPSIjRURFNkRBIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDwvZz4KPC9zdmc+Cg==" />
 
 </div>
 
