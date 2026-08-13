@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Nevin%20Dabrah&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Economics%20%40%20Yale&descAlignY=58&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1512,50:6B3A1F,100:C1502E&height=200&section=header&text=Nevin%20Dabrah&fontSize=50&fontColor=E8B939&animation=fadeIn&fontAlignY=35&desc=CS%20%26%20Economics%20%40%20Yale%20%20%C2%B7%20%20Accra%2C%20Ghana&descAlignY=58&descColor=EDE6DA" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+tech+for+real+problems;From+Accra%2C+Ghana+%F0%9F%87%AC%F0%9F%87%AD;CodePath+Interview+Prep+%E2%80%93+Summer+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E8B939&center=true&vCenter=true&width=650&lines=CS+%26+Economics+%40+Yale+University;Building+tech+for+problems+people+actually+face;Sankofa+%E2%80%94+go+back+and+get+it" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_Yale_University-1A1512?style=for-the-badge&logoColor=E8B939" />
+<img src="https://img.shields.io/badge/📍_Accra%2C_Ghana-1A1512?style=for-the-badge&logoColor=006B3F" />
 
 </div>
 
@@ -10,9 +15,7 @@
 
 ### 🌍 About Me
 
-Fascinated by applying technology to problems real people actually face. Growing up in Africa, I saw firsthand how tech solutions, implemented properly, can change lives. That's what pulls me toward building things that solve real problems, not just interesting ones.
-
-🎓 Completed CodePath's Technical Interview Prep: Intermediate, Summer 2026 Cohort
+Fascinated by applying technology to problems real people actually face. Growing up in Africa, I saw firsthand how tech solutions, implemented properly, can change lives, and that's what pulls me toward building things that solve real problems, not just interesting ones. I've sharpened that with hands-on prep like CodePath's Technical Interview Prep (Intermediate, Summer 2026), but most of what I know comes from just building.
 
 🏃 Fun fact: finalist in Ghana's Fastest Human U10
 
@@ -49,15 +52,15 @@ Fascinated by applying technology to problems real people actually face. Growing
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nevindabrah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevindabrah&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nevindabrah&show_icons=true&hide_border=true&bg_color=1A1512&title_color=E8B939&icon_color=E8B939&text_color=EDE6DA" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevindabrah&layout=compact&hide_border=true&bg_color=1A1512&title_color=E8B939&text_color=EDE6DA" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nevindabrah&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=nevindabrah&hide_border=true&background=1A1512&ring=E8B939&fire=C1502E&currStreakLabel=E8B939&sideLabels=EDE6DA&currStreakNum=EDE6DA&sideNums=EDE6DA&dates=8B7E6A" />
 </p>
 
 ---
@@ -65,15 +68,7 @@ Fascinated by applying technology to problems real people actually face. Growing
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nevindabrah&theme=onedark&no-frame=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nevindabrah&theme=matrix&no-frame=true&margin-w=8&row=1" />
 </p>
 
----
-
-### 🔥 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nevindabrah&theme=github-dark-blue&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1502E,50:6B3A1F,100:1A1512&height=100&section=footer" width="100%"/>
