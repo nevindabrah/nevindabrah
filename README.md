@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1512,50:6B3A1F,100:C1502E&height=200&section=header&text=Nevin%20Dabrah&fontSize=50&fontColor=E8B939&animation=fadeIn&fontAlignY=35&desc=CS%20%26%20Economics%20%40%20Yale%20%20%C2%B7%20%20Accra%2C%20Ghana&descAlignY=58&descColor=EDE6DA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1512,50:6B3A1F,100:C1502E&height=200&section=header&text=Nevin%20Dabrah&fontSize=50&fontColor=E8B939&animation=fadeIn&fontAlignY=35&desc=CS%20and%20Economics%20at%20Yale%20%20%2F%20%20Accra%2C%20Ghana&descAlignY=58&descColor=EDE6DA" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E8B939&center=true&vCenter=true&width=650&lines=CS+%26+Economics+%40+Yale+University;Building+tech+for+problems+people+actually+face;Sankofa+%E2%80%94+go+back+and+get+it" alt="Typing SVG" />
 
@@ -65,14 +65,6 @@ Fascinated by applying technology to problems real people actually face. Growing
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nevindabrah&hide_border=true&background=1A1512&ring=E8B939&fire=C1502E&currStreakLabel=E8B939&sideLabels=EDE6DA&currStreakNum=EDE6DA&sideNums=EDE6DA&dates=8B7E6A" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nevindabrah&theme=matrix&no-frame=true&margin-w=8&row=1" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C1502E,50:6B3A1F,100:1A1512&height=100&section=footer" width="100%"/>
