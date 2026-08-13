@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/yale_university-1B1B2F?style=for-the-badge&logoColor=C9B8FF" />
-<img src="https://img.shields.io/badge/new_haven%2C_ct-1B1B2F?style=for-the-badge&logoColor=A8D8FF" />
-<img src="https://img.shields.io/badge/accra%2C_ghana-1B1B2F?style=for-the-badge&logoColor=FFB8D9" />
+<img src="https://img.shields.io/badge/🎓_yale_university-1B1B2F?style=for-the-badge&logoColor=C9B8FF" />
+<img src="https://img.shields.io/badge/📍_new_haven%2C_ct-1B1B2F?style=for-the-badge&logoColor=A8D8FF" />
+<img src="https://img.shields.io/badge/🇬🇭_accra%2C_ghana-1B1B2F?style=for-the-badge&logoColor=FFB8D9" />
 
 <br/><br/>
 
@@ -60,8 +60,8 @@ fascinated by applying technology to problems real people actually face. growing
 ### 📊 github activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nevindabrah&show_icons=true&hide_border=true&bg_color=1B1B2F&title_color=C9B8FF&icon_color=A8D8FF&text_color=EDE6F5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevindabrah&layout=compact&hide_border=true&bg_color=1B1B2F&title_color=C9B8FF&text_color=EDE6F5" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=nevindabrah&show_icons=true&hide_border=true&bg_color=1B1B2F&title_color=C9B8FF&icon_color=A8D8FF&text_color=EDE6F5" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nevindabrah&layout=compact&hide_border=true&bg_color=1B1B2F&title_color=C9B8FF&text_color=EDE6F5" />
 </p>
 
 <p align="center">
