@@ -9,6 +9,21 @@
 <img src="https://img.shields.io/badge/🎓_Yale_University-1A1512?style=for-the-badge&logoColor=E8B939" />
 <img src="https://img.shields.io/badge/📍_Accra%2C_Ghana-1A1512?style=for-the-badge&logoColor=006B3F" />
 
+<br/>
+
+<svg width="90" height="140" viewBox="0 0 120 160" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-22 60 0; 22 60 0; -22 60 0" dur="2.4s" repeatCount="indefinite"/>
+    <line x1="60" y1="0" x2="60" y2="50" stroke="#E8B939" stroke-width="2"/>
+    <circle cx="60" cy="62" r="10" fill="#EDE6DA"/>
+    <line x1="60" y1="72" x2="60" y2="105" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="80" x2="42" y2="95" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="80" x2="78" y2="95" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="105" x2="47" y2="135" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="105" x2="73" y2="135" stroke="#EDE6DA" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
+
 </div>
 
 ---
@@ -24,7 +39,7 @@ Fascinated by applying technology to problems real people actually face. Growing
 ### 🌐 Connect
 
 <p align="center">
-  <a href="mailto:nevinktdabrah@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nevinktdabrah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nktd/">
