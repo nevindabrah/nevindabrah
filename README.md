@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/nevindabrah/nevindabrah@main/assets/hero.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=300&size=18&duration=3000&pause=1000&color=C9B8FF&center=true&vCenter=true&width=650&lines=building+tech+for+problems+people+actually+face;from+accra%2C+ghana;based+in+new+haven%2C+ct;sankofa+%E2%80%94+go+back+and+get+it" alt="typing svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=300&size=18&duration=3000&pause=1000&color=6C3CE9&center=true&vCenter=true&width=650&lines=building+tech+for+problems+people+actually+face;from+accra%2C+ghana;based+in+new+haven%2C+ct" alt="typing svg" />
 
 <br/>
 
